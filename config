@@ -67,11 +67,14 @@ keybind = ctrl+shift+k=goto_split:up
 keybind = ctrl+shift+j=goto_split:down
 keybind = ctrl+shift+h=goto_split:left
 
+## TABS
+keybind = ctrl+shift+t=new_tab
+
+
 ## CLOSING
 keybind = ctrl+shift+w=close_surface
-keybind = ctrl+shift+t=close_tab
-keybind = ctrl+shift+q=close_window
+keybind = ctrl+shift+q=close_tab
 
 ## SPLIT LOOKS
-split-divider-color = #5e81ac
+split-divider-color = #ffffff
 unfocused-split-opacity = 0.5
