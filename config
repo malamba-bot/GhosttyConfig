@@ -49,7 +49,7 @@
 # resize-overlay-duration = 4s 200ms
 
 # THEME
-theme = Nord 
+theme = Rose Pine 
 
 # CURSOR
 shell-integration-features = no-cursor
@@ -76,5 +76,5 @@ keybind = ctrl+shift+w=close_surface
 keybind = ctrl+shift+q=close_tab
 
 ## SPLIT LOOKS
-split-divider-color = #ffffff
+split-divider-color = #f6c177
 unfocused-split-opacity = 0.5
